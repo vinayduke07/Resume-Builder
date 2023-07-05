@@ -26,7 +26,7 @@ npm# Almabetter Resume Builder
   </ul>
   
  ### Contributors - 
- ### Individual Project - Malhar Mane 
+ ### Individual Project - Vinay Duklan 
   
 
  
